@@ -1,0 +1,87 @@
+#progressbar {
+	background: #34495E !important;
+}
+
+#progressbar > span {
+background-image: 
+	   -webkit-gradient(linear, 0 0, 100% 100%, 
+	      color-stop(.25, #bc271a), 
+	      color-stop(.25, transparent), color-stop(.5, transparent), 
+	      color-stop(.5, #bc271a), 
+	      color-stop(.75, #bc271a), 
+	      color-stop(.75, transparent), to(transparent)
+	   ) !important;
+	background-image: 
+		-webkit-linear-gradient(
+		  -45deg, 
+	      #bc271a 25%, 
+	      transparent 25%, 
+	      transparent 50%, 
+	      #bc271a 50%, 
+	      #bc271a 75%, 
+	      transparent 75%, 
+	      transparent
+	   ) !important;
+	background-image: 
+		-moz-linear-gradient(
+		  -45deg, 
+	      #bc271a 25%, 
+	      transparent 25%, 
+	      transparent 50%, 
+	      #bc271a 50%, 
+	      #bc271a 75%, 
+	      transparent 75%, 
+	      transparent
+	   ) !important;
+	background-image: 
+		-ms-linear-gradient(
+		  -45deg, 
+	      #bc271a 25%, 
+	      transparent 25%, 
+	      transparent 50%, 
+	      #bc271a 50%, 
+	      #bc271a 75%, 
+	      transparent 75%, 
+	      transparent
+	   ) !important;
+	background-image: 
+		-o-linear-gradient(
+		  -45deg, 
+	      #bc271a 25%, 
+	      transparent 25%, 
+	      transparent 50%, 
+	      #bc271a 50%, 
+	      #bc271a 75%, 
+	      transparent 75%, 
+	      transparent
+	   ) !important;
+}
+
+
+.pf-btn:hover, .pf-btn:active {
+	color: #bc271a !important;
+	background: #34495E !important;
+}
+
+
+.pf-table tbody tr:hover{
+	background-color:#bc271a !important;
+}
+
+
+.pf-headword{
+	color:#bc271a !important;
+}
+
+
+.pf-btn{
+	border: 3px solid #34495E !important;
+	color: #34495E !important;
+}
+
+.pf-badge{
+	background-color: #34495E !important;
+}
+
+
+
