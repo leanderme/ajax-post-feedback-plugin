@@ -1,6 +1,6 @@
 # Ajax Post Feedback Plugin
 
-> Alert: This plugin is no longer under active development, because I no longer work on WP / PHP projects. This plugin was one of my first. There aren't any tests included and I'm sure that the coding style breaks common conventions. Use on your own risk. I don’t intend to do any WordPress-related work in the future.
+> Alert: This plugin is no longer under active development, because I no longer work on WP / PHP projects. Use on your own risk. I don’t intend to do any WordPress-related work in the future.
 
 Post Feedback provides the most immediate and efficient way to gather contructive feedback from readers for your articles. Once activated, it limits the length of posts to a preview and kindly asks readers to vote what they have been reading in order to unlock the full article. By this, Post Feedback actually gives readers a reason to vote your articles.
 
